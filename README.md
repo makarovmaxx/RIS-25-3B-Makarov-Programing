@@ -18,8 +18,8 @@
 - [ ] nocheckbox
 # ссылки
 <http://zzzz.ru/> 
-#ссылки
+# ссылки
 [text](http:// " comment")
-#ссылки
+# ссылки
 [Text][url_pstu]
 [url_pstu]: https://ssylka
