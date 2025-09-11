@@ -2,12 +2,12 @@
 # 1 title
 ## 2 title ##
 ### 3 title
-# текст
+# Текст
 *fgfg*
  **fgfg** 
  ***куша*ть***
 ~~fong~~
-# списки
+# Списки
 1. numer
 2. numer
 3. numer
@@ -16,11 +16,11 @@
 * nenumer
 - [x] checkbox
 - [ ] nocheckbox
-# ссылки
+# Ссылки
 <http://zzzz.ru/> 
-# ссылки
+# Ссылки
 [text](http:// " comment")
-# ссылки
+# Ссылки
 [Text][url_pstu]
 
 [url_pstu]: https://ssylka
