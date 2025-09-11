@@ -25,5 +25,5 @@
 
 [url_pstu]: https://ssylka
 # Картинки
-![pic](https://ya.ru/images/search?img_url=https%3A%2F%2Fsun9-25.userapi.com%2Fc836230%2Fv836230544%2F1ff9d%2F9NdiqOb6zss.jpg&lr=50&pos=0&rpt=simage&source=serp&text=картинки "~")
+![pic](https://images.steamusercontent.com/ugc/17854221424440595525/543783B601D5A853E3F50907B9722A314DFD92B6/?imw=512&amp;imh=320&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true)
 
