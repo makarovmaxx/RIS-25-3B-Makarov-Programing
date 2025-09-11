@@ -6,3 +6,9 @@
  **fgfg** 
  ***куша*ть***
 ~~fong~~
+1. hhhhh
+2. aaaaa
+* gggg
+* jjjj
+- [x] xaxxaxa
+- [  ] xaxaxaxa 
