@@ -2,3 +2,7 @@
 # rrrrr
 ## git ##
 ### tyntyn
+*fgfg*
+**fgfg**
+куша*ть
+~~fong~~
