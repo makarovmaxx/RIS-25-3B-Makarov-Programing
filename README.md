@@ -10,6 +10,6 @@
 2. aaaaa
 * gggg
 * jjjj
-- [x] xaxxaxa
-- [  ] xaxaxa
+- [x] checkbox
+- [  ] checkbox
   
