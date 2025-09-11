@@ -2,10 +2,12 @@
 # 1 title
 ## 2 title ##
 ### 3 title
+# текст
 *fgfg*
  **fgfg** 
  ***куша*ть***
 ~~fong~~
+# списки
 1. numer
 2. numer
 3. numer
