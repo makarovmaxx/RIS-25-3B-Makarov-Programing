@@ -29,4 +29,4 @@
 # Код
 ```python
 print('hello')
-'''
+```
