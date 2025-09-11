@@ -27,6 +27,6 @@
 # Картинки
 ![pic](https://images.steamusercontent.com/ugc/17854221424440595525/543783B601D5A853E3F50907B9722A314DFD92B6/?imw=512&amp;imh=320&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true "priroda")
 # Код
-'''
+'''C
 print('hello')
 '''
