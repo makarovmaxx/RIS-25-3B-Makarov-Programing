@@ -30,3 +30,7 @@
 ```python
 print('hello')
 ```
+# Таблицы
+|slobec1|stolbec2|stobec3|
+|---||---||----|
+|gg|gg|gg|
