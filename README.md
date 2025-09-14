@@ -35,4 +35,4 @@ print('hello')
 |slobec1|stolbec2|stobec3|
 |-|---|--|
 |текст1|текст2|текст3|
-#КОНЕЦ
+
